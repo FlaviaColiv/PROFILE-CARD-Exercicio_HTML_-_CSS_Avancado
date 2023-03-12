@@ -50,7 +50,6 @@ div .box-up {
 .box-down {
   display: flex;
   flex-direction: row;  
-  margin-left: -10%;
   gap: 10px;
   height: 100%;  
   margin-top: 3%;
